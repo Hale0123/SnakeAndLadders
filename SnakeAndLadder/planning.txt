@@ -1,0 +1,13 @@
+Planing Document
+URl: https://github.com/Sam-Scott-McMaster/the-team-assignment-team-31-the-syntaxsquad.git
+Team Members: Prashanta Kandel 400521817, Harold Le 400502557, Pavan Patel 400530973, Atharva Kulkarni 400533314, Zuning Wang 400499491
+GitHub IDs: PrashantaKandel, haroldle1, pavanmcmaster, ZuningWang, atharva6905
+
+C GUI App
+Ideas: Snakes and Latters
+
+Simulate the Snakes and Latters board game.
+Multiple players roll a dice and move the number of squares they roll
+Ladders move you closer to the top, and Snakes bring you further away
+First one to reach 100 wins!
+
