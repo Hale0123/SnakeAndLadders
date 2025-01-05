@@ -13,7 +13,7 @@ typedef struct {
     GtkWidget *pawn_widget;  // Reference to the player's pawn widget
 } Player;
 
-// Tile structure
+//Tile structure
 typedef struct {
     int number;              // Tile number
     int snake_to;            // Destination for a snake
